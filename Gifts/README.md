@@ -16,7 +16,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [*&#9940;* Things I do not need](#things-i-do-not-need)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+# 
 # &#129300;
 ## Notable life events 
 ### Things going on in my life that might inspire gift ideas! (*last updated Nov 7th, 2019*)
