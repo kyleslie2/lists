@@ -12,6 +12,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
 > * [*&#128176;* Practical](#practical)
 > * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
+> * [*&#129300;* Relevant life events to theme gifts around](#relevant-life-events-to-theme-gifts-around)
 > * [*&#9940;* Things I don't need](#things-i-don-t-need)
 
 
@@ -129,6 +130,11 @@ Random things currently on my personal "To Buy" list (updated: *November 7th, 20
    - New winter mitts (not too bulky)
    - New raincoat (same as alicia's) todo: <insert link to raincoat>
    - Key/ mail holder - like the one here (size and depth are good)
+ 
+## Relevant life events to theme gifts around 	&#129300;
+ - Big trip to London + Scotland (August 2020)
+ - New dog
+ - Settling into desk job/ web dev/ public servant work
  
  
  ## Things I don't need &#9940;
