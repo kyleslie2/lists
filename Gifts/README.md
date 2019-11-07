@@ -4,7 +4,7 @@ Safe purchases and things I always love getting!
 
 > ## Categories
 > 1. [Clothing](#clothing)
-> 2. [Drinks](#drinks)
+> 2. [Food and Drink](#food-and-drink)
 > 3. [Bags](#bags)
 > 4. [Tech](#tech)
 > 5. [Stuff for Eugene](#stuff-for-eugene)
@@ -31,7 +31,7 @@ Do need:
   - Nice, comfortable button-ups and dressy sweaters for work 
    - Ex: Frank and Oak medium slim fit flannel dress-shirt (dark green) todo: <insert link to picture?>
 
-## Drinks
+## Food and Drink
 Coffee and alcohol are always fun! And no clutter!
 
 Coffee:
@@ -40,7 +40,17 @@ Coffee:
  
  Alcohol (Help us slowwwwwwly stock our liquor cabinet!):
   - Any nice bottle of liquor we probably don't have (Hint: we don't have much haha)
-  - Fun beer I might not have tried (_Note: any type is fine *except sour beer*_)
+  - Fun beer I might not have tried (Note: any type is fine *except sour beer*)
+  - Wine: Always fun to try a new bottle together!
+  
+ Hotsauce (always like trying new, tasty hot-sauces):
+ - *Tasty > painful!* Interesting flavours and medium heat is more enjoyable than pure pain!
+ - Citrusy, fruity sauces with medium - high heat are fun
+ 
+ Restaurants:
+  - Restaurant gift-cards for brunch spots or dinner places are fun! Alicia and I love to go out to eat!
+  
+ 
   
 
 ## Bags
@@ -50,10 +60,11 @@ Criteria:
   - Comfortable strap
   - Sleek design
   - Functional size (not too big or too small (holds my laptop + lunch + some pens/notebook)
+  - Neutral colours (no orange or pink please haha)
  
  Examples of brands I like:
-  - https://bellroy.com/  
-  - https://www.incase.com/products/bags
+  - [Bellroy](https://bellroy.com/)  
+  - [InCase](https://www.incase.com/products/bags)
 
 ## Tech
 Tech gadgets and accessories I would love to get but don't _need_
@@ -63,10 +74,12 @@ Tech gadgets and accessories I would love to get but don't _need_
 Eugene can never have enough toys or supplies and if Eugene is happy, I'm happy 
 
 Toys:
-  - Anything squeaky or ball-shaped is a win for him
+  - Anything squeaky or ball-shaped is a win for him 
+     - he plays with them in the apartment, not outside
+     - he likes fake-chasing it around the apartment and then sitting there squeaking it over and over, pretending he's killing bunnies...
   - Anything squirrel-like
   - Ideally somewhat durable
-  - He enjoys check-toys like the antler we bought him
+  - He enjoys chew-toys like the antler we bought him
 
 Treats:
   - All treats are good  
@@ -76,15 +89,20 @@ Misc:
 
 ## Practical
 Things I can always use but might not buy myself
-  - Gift cards:
-    - Amazon
-    - Google play
-    - Visa
-    
+ 
+ Gift cards:
+  - Amazon
+  - Google Play (can be used for other in-app purchases like uber and lyft too)
+  - Visa
+  - Uber/ Uber-eats
+  - Restaurants
+  - LCBO
+  - Startbucks
+
 ## Miscellaneous
 Random things currently on my personal "To Buy" list (updated: *November 7th, 2019*):
 
-   - Big winter boots for taking G out on walks
+   - Big winter boots for taking G out on walks (fashion is not a priority here)
    - New winter mitts (not too bulky)
    - New raincoat (same as alicia's) todo: <insert link to raincoat>
    - Key/ mail holder - like the one here (size and depth are good)
