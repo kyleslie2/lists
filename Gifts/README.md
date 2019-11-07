@@ -1,6 +1,8 @@
 ## Gift ideas for Kyle
 Safe purchases and things I always love getting!
 
+_Note: This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions :p_ 
+
 
 > ## Categories
 > * [Clothing](#clothing)
@@ -10,6 +12,8 @@ Safe purchases and things I always love getting!
 > * [Stuff for Eugene](#stuff-for-eugene)
 > * [Practical](#practical)
 > * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
+> * [Things I don't need](#things-i-don-t-need)
+
 
 
 
@@ -26,10 +30,21 @@ Criteria:
   - medium for t-shirts
   - Dress shirts: Calvin Klein Extreme slim 15, 34, 35 fit well a couple years ago (might be small in neck and shoulders now)
   - Jeans: todo: <insert size of current jeans...>
+  - Underwear: Boxer-briefs (medium)
  
 Do need: 
   - Nice, comfortable button-ups and dressy sweaters for work 
    - Ex: Frank and Oak medium slim fit flannel dress-shirt (dark green) todo: <insert link to picture?>
+  - Nice socks for work
+  - Nice boxer-briefs (medium)
+  - Nice pants: khakis or jeans (_Note: harder to buy for me_)
+  
+Brands I like:
+  - Frank and Oak
+    - For button up shirts (but probably would love other things too)
+  - Le 31 (carried by Simons)
+    - For sweaters, cardigans and pants
+  
 
 ## Food and Drink
 Coffee and alcohol are always fun! And no clutter!
@@ -38,7 +53,7 @@ Coffee:
  - Whole beans (not ground)
  - Something I haven't tried before
  
- Alcohol (Help us slowwwwwwly stock our liquor cabinet!):
+ Alcohol (Help us _slowly_ stock our liquor cabinet!):
   - Any nice bottle of liquor we probably don't have (Hint: we don't have much haha)
   - Fun beer I might not have tried (Note: any type is fine *except sour beer*)
   - Wine: Always fun to try a new bottle together!
@@ -90,6 +105,10 @@ Misc:
 ## Practical
 Things I can always use but might not buy myself
  
+ Beard care:
+  - Beard oil (something that smells nice)
+  - Beard conditioner
+ 
  Gift cards:
   - Amazon
   - Google Play (can be used for other in-app purchases like uber and lyft too)
@@ -107,3 +126,7 @@ Random things currently on my personal "To Buy" list (updated: *November 7th, 20
    - New raincoat (same as alicia's) todo: <insert link to raincoat>
    - Key/ mail holder - like the one here (size and depth are good)
  
+ 
+ ## Things I don't need
+ Things that I definitely have plently of:
+   * 
