@@ -9,8 +9,8 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [Food and Drink](#food-and-drink)
 > * [Bags](#bags)
 > * :floppy_disk:[Tech](#tech)
-> * [U+1F436; Stuff for Eugene](#stuff-for-eugene) U+1F436;
-> * [U+1F436; Stuff for Eugene](#stuff-for-eugene)
+> * [&#128054; Stuff for Eugene](#stuff-for-eugene) U+1F436;
+> [&#128054;  Stuff for Eugene](#stuff-for-eugene)
 > * [Practical](#practical)
 > * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
 > * :warning:[Things I don't need](#things-i-don-t-need)
