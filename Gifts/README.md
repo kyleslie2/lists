@@ -7,8 +7,9 @@ Safe purchases and things I always love getting!
 > 2. [Drinks](#drinks)
 > 3. [Bags](#bags)
 > 4. [Tech](#tech)
-> 5. [Practical](#practical)
-> 6. [Miscellaneous](#miscellaneous)
+> 5. [Stuff for Eugene](#stuff-for-eugene)
+> 6. [Practical](#practical)
+> 7. [Miscellaneous](#miscellaneous)
 
 
 
@@ -44,6 +45,21 @@ Criteria:
 ## Tech
 Tech gadgets and accessories I would love to get but don't _need_
   - Rasperry Pi 4 
+  
+## Stuff for Eugene
+Eugene can never have enough toys or supplies and if Eugene is happy, I'm happy 
+
+Toys:
+  - Anything squeaky or ball-shaped is a win for him
+  - Anything squirrel-like
+  - Ideally somewhat durable
+  - He enjoys check-toys like the antler we bought him
+
+Treats:
+  - All treats are good  
+
+Misc:
+  - Clothing (indoor or outdoor), petsmart/ dog store gift-cards 
 
 ## Practical
 Things I can always use but might not buy myself
