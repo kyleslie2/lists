@@ -5,7 +5,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 ## Categories
-> * [*&#129300;* Relevant life events to theme gifts around](#relevant-life-events-to-theme-gifts-around)
+> * [*&#129300;* Notable life events](#notable-life-events)
 > * [*&#128084;* Clothing](#clothing)
 > * [*&#9749;* Food and Drink](#food-and-drink)
 > * [*&#128092;* Bags](#bags)
@@ -17,8 +17,8 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 # &#129300;
-## Relevant life events to theme gifts around 
-### &#129300;
+## Notable life events 
+### Things going on in my life that might inspire gift ideas! (*last updated Nov 7th, 2019*)
  - Big trip to London + Scotland (August 2020)
  - New dog
  - Settling into desk job/ web dev/ public servant work
