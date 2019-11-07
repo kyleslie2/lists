@@ -1,12 +1,14 @@
 ## Safe purchases for Kyle
 Things I love getting!
 
+
 > ## Categories
 > 1. [Clothing](#Clothing)
 > 2. [Drinks](#Drinks)
 > 3. [Bags Example](#Bags)
 > 4. [Tech](#Tech)
 > 5. [Practical](#Practical)
+
 
 
 ## Clothing
