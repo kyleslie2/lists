@@ -13,7 +13,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
 > * [*&#128176;* Practical](#practical)
 > * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
-> * [*&#9940;* Things I do not need](#things-i-do_not-need)
+> * [*&#9940;* Things I do not need](#things-i-do-not-need)
 
 
 # &#129300;
