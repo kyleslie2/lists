@@ -6,13 +6,13 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 ## Categories
 > * [Clothing *&#128084;*](#clothing)
-> * [Food and Drink](#food-and-drink)
+> * [Food and Drink *	&#9749;*](#food-and-drink)
 > * [Bags *&#128092;*](#bags)
 > * [Tech *&#128190;*](#tech)
 > * [Stuff for Eugene *&#128054;*](#stuff-for-eugene)
 > * [Practical *&#128178;*](#practical)
-> * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
-> * [Things I don't need](#things-i-don-t-need)
+> * [Miscellaneous/ On my 'To Buy' list *&#9989;*](#miscellaneous)
+> * [Things I don't need *&#10060;*](#things-i-don-t-need)
 
 
 
@@ -46,7 +46,7 @@ Brands I like:
     - For sweaters, cardigans and pants
   
 
-## Food and Drink
+## Food and Drink 	&#9749;
 Coffee and alcohol are always fun! And no clutter!
 
 Coffee:
@@ -122,7 +122,7 @@ Things I can always use but might not buy myself
   - LCBO
   - Startbucks
 
-## Miscellaneous
+## Miscellaneous &#9989;
 Random things currently on my personal "To Buy" list (updated: *November 7th, 2019*):
 
    - Big winter boots for taking G out on walks (fashion is not a priority here)
@@ -131,6 +131,6 @@ Random things currently on my personal "To Buy" list (updated: *November 7th, 20
    - Key/ mail holder - like the one here (size and depth are good)
  
  
- ## Things I don't need
+ ## Things I don't need &#10060;
  Things that I definitely have plently of:
    * Can't think of anything yet  &#128523;
