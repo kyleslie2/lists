@@ -1,12 +1,11 @@
-# Safe purchases for Kyle (can never have too much)
-A list of items that I will always appreciate receiving!
+## Safe purchases for Kyle (can never have too much)
 
-## Categories
-1. [Clothing](#Clothing)
-2. [Drinks](#Drinks)
-3. [Bags Example](#Bags)
-4. [Tech](#Tech)
-5. [Practical](#Practical)
+> ## Categories
+> 1. [Clothing](#Clothing)
+> 2. [Drinks](#Drinks)
+> 3. [Bags Example](#Bags)
+> 4. [Tech](#Tech)
+> 5. [Practical](#Practical)
 
 
 ## Clothing
