@@ -8,8 +8,8 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [Clothing](#clothing)
 > * [Food and Drink](#food-and-drink)
 > * [Bags](#bags)
-> * :floppy_disk:[Tech](#tech)
-> * [Stuff for Eugene](#stuff-for-eugene)	_&#128054;_
+> * [Tech](#tech)
+> * [Stuff for Eugene](#stuff-for-eugene)	&#128054;
 > * [Practical](#practical)
 > * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
 > * :warning:[Things I don't need](#things-i-don-t-need)
@@ -89,7 +89,7 @@ Tech gadgets and accessories I would love to get but don't _need_
     * Can always use more storage! Especially as I improve and expand our media server + at home backups on the network
     * anything over 1TB (1000GB) and with usb3 or 3.1 is great!
   
-## Stuff for Eugene
+## Stuff for Eugene &#128054;
 Eugene can never have enough toys or supplies and if Eugene is happy, I'm happy 
 
 Toys:
