@@ -1,4 +1,5 @@
-## Safe purchases for Kyle (can never have too much)
+## Safe purchases for Kyle
+Things I love getting!
 
 > ## Categories
 > 1. [Clothing](#Clothing)
