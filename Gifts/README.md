@@ -3,13 +3,13 @@ Safe purchases and things I always love getting!
 
 
 > ## Categories
-> 1. [Clothing](#clothing)
-> 2. [Food and Drink](#food-and-drink)
-> 3. [Bags](#bags)
-> 4. [Tech](#tech)
-> 5. [Stuff for Eugene](#stuff-for-eugene)
-> 6. [Practical](#practical)
-> 7. [Miscellaneous](#miscellaneous)
+> * 1. [Clothing](#clothing)
+> * 2. [Food and Drink](#food-and-drink)
+> * 3. [Bags](#bags)
+> * 4. [Tech](#tech)
+> * 5. [Stuff for Eugene](#stuff-for-eugene)
+> * 6. [Practical](#practical)
+> * 7. [Miscellaneous](#miscellaneous)
 
 
 
