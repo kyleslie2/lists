@@ -1,10 +1,10 @@
-## Gift ideas for Kyle &#x1F381;
+## Gift ideas for Kyle
 Safe purchases and things I always love getting! 
 
 _Note: This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions_ &#128519; 
 
 
-## Categories
+## &#x1F381; Categories
 > * [*&#129300;* Notable life events](#notable-life-events)
 > * [*&#128084;* Clothing](#clothing)
 > * [*&#9749;* Food and Drink](#food-and-drink)
