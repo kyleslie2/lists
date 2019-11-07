@@ -13,7 +13,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
 > * [*&#128176;* Practical](#practical)
 > * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
-> * [*&#9940;* Things I don't need](#things-i-don-t-need)
+> * [*&#9940;* Things I do not need](#things-i-do_not-need)
 
 
 # &#129300;
@@ -142,6 +142,6 @@ Misc:
    - Key/ mail holder - like the one here (size and depth are good)
 
 # &#9940;
-## Things I don't need 
+## Things I do not need 
 ### Things that I definitely have plently of:
   * Can't think of anything yet  &#128523;
