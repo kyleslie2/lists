@@ -13,10 +13,21 @@ Safe purchases and things I always love getting!
 
 ## Clothing
 Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
+
 Criteria:
  - Good fit
  - Good for work
  - Comfortable
+ 
+ Sizes: 
+  - medium + slim fit for button ups
+  - medium for t-shirts
+  - Dress shirts: Calvin Klein Extreme slim 15, 34, 35 fit well a couple years ago (might be small in neck and shoulders now)
+  - Jeans: todo: <insert size of current jeans...>
+ 
+Do need: 
+  - Nice, comfortable button-ups and dressy sweaters for work 
+   - Ex: Frank and Oak medium slim fit flannel dress-shirt (dark green) todo: <insert link to picture?>
 
 ## Drinks
 Coffee and alcohol!
@@ -39,3 +50,9 @@ Things I can always use but might not buy myself
     - Amazon
     - Google play
     - Visa
+    
+## Miscellaneous
+Random things currently on my personal "To Buy" list (updated: *November 7th, 2019*)
+    - Big winter boots for taking G out on walks
+    - New winter mitts (not too bulky)
+    - New raincoat (same as alicia's) todo: <insert link to raincoat>
