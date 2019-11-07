@@ -3,11 +3,11 @@ Things I love getting!
 
 
 > ## Categories
-> 1. [Clothing](#Clothing)
-> 2. [Drinks](#Drinks)
-> 3. [Bags Example](#Bags)
-> 4. [Tech](#Tech)
-> 5. [Practical](#Practical)
+> 1. [Clothing](#clothing)
+> 2. [Drinks](#drinks)
+> 3. [Bags](#bags)
+> 4. [Tech](#tech)
+> 5. [Practical](#practical)
 
 
 
