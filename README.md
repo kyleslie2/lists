@@ -1,3 +1,3 @@
-# Select a list:
+## Select a list:
 
-## [Gift ideas](./Gifts/README.md)
+### [Gift ideas](./Gifts/README.md)
