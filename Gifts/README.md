@@ -12,7 +12,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [Stuff for Eugene](#stuff-for-eugene)	&#128054;
 > * [Practical](#practical)
 > * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
-> * :warning:[Things I don't need](#things-i-don-t-need)
+> * [Things I don't need](#things-i-don-t-need)
 
 
 
