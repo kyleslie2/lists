@@ -10,9 +10,9 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [*&#128092;* Bags](#bags)
 > * [*&#128190;* Tech](#tech)
 > * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
-> * [*&#128178;* Practical](#practical)
+> * [*&#128176;* Practical](#practical)
 > * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
-> * [*&#10060;* Things I don't need](#things-i-don-t-need)
+> * [*&#9940;* Things I don't need](#things-i-don-t-need)
 
 
 
@@ -106,7 +106,7 @@ Treats:
 Misc:
   - Clothing (indoor or outdoor), petsmart/ dog store gift-cards 
 
-## Practical &#128178;
+## Practical &#128176;
 Things I can always use but might not buy myself
  
  Beard care:
@@ -131,6 +131,6 @@ Random things currently on my personal "To Buy" list (updated: *November 7th, 20
    - Key/ mail holder - like the one here (size and depth are good)
  
  
- ## Things I don't need &#10060;
+ ## Things I don't need &#9940;
  Things that I definitely have plently of:
    * Can't think of anything yet  &#128523;
