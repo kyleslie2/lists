@@ -6,7 +6,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 ## Categories
 > * [Clothing *&#128084;*](#clothing)
-> * [Food and Drink *	&#9749;*](#food-and-drink)
+> * [Food and Drink *&#9749;*](#food-and-drink)
 > * [Bags *&#128092;*](#bags)
 > * [Tech *&#128190;*](#tech)
 > * [Stuff for Eugene *&#128054;*](#stuff-for-eugene)
