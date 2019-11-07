@@ -5,14 +5,14 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 ## Categories
-> * [Clothing *&#128084;*](#clothing)
-> * [Food and Drink *&#9749;*](#food-and-drink)
-> * [Bags *&#128092;*](#bags)
-> * [Tech *&#128190;*](#tech)
-> * [Stuff for Eugene *&#128054;*](#stuff-for-eugene)
-> * [Practical *&#128178;*](#practical)
-> * [Miscellaneous/ On my 'To Buy' list *&#9989;*](#miscellaneous)
-> * [Things I don't need *&#10060;*](#things-i-don-t-need)
+> * [*&#128084;* Clothing](#clothing)
+> * [*&#9749;* Food and Drink](#food-and-drink)
+> * [*&#128092;* Bags](#bags)
+> * [*&#128190;* Tech](#tech)
+> * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
+> * [*&#128178;* Practical](#practical)
+> * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
+> * [*&#10060;* Things I don't need](#things-i-don-t-need)
 
 
 
