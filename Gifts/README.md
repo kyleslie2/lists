@@ -9,7 +9,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [Food and Drink](#food-and-drink)
 > * [Bags](#bags)
 > * [Tech](#tech)
-> * [Stuff for Eugene](#stuff-for-eugene)	&#128054;
+> * [Stuff for Eugene](#stuff-for-eugene)_	&#128054;
 > * [Practical](#practical)
 > * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
 > * [Things I don't need](#things-i-don-t-need)
@@ -17,7 +17,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 
-## Clothing
+## Clothing 	&#128086;
 Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
 
 Criteria:
