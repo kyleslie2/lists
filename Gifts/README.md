@@ -4,7 +4,7 @@ Safe purchases and things I always love getting!
 _Note: This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions :p_ 
 
 
-> ## Categories
+## Categories
 > * [Clothing](#clothing)
 > * [Food and Drink](#food-and-drink)
 > * [Bags](#bags)
@@ -83,7 +83,11 @@ Criteria:
 
 ## Tech
 Tech gadgets and accessories I would love to get but don't _need_
-  - Rasperry Pi 4 
+  - [Rasperry Pi 4](https://www.buyapi.ca/raspberry-pi-4-information/)
+    * I already have a 3B, but you can never have enough raspberry pis and I know that I could find a really fun use for another!
+  - External SSD
+    * Can always use more storage! Especially as I improve and expand our media server + at home backups on the network
+    * anything over 1TB (1000GB) and with usb3 or 3.1 is great!
   
 ## Stuff for Eugene
 Eugene can never have enough toys or supplies and if Eugene is happy, I'm happy 
@@ -129,4 +133,4 @@ Random things currently on my personal "To Buy" list (updated: *November 7th, 20
  
  ## Things I don't need
  Things that I definitely have plently of:
-   * 
+   * Can't think of anything yet :p
