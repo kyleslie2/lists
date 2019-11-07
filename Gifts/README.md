@@ -5,6 +5,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 ## Categories
+> * [*&#129300;* Relevant life events to theme gifts around](#relevant-life-events-to-theme-gifts-around)
 > * [*&#128084;* Clothing](#clothing)
 > * [*&#9749;* Food and Drink](#food-and-drink)
 > * [*&#128092;* Bags](#bags)
@@ -12,14 +13,18 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
 > * [*&#128176;* Practical](#practical)
 > * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
-> * [*&#129300;* Relevant life events to theme gifts around](#relevant-life-events-to-theme-gifts-around)
 > * [*&#9940;* Things I don't need](#things-i-don-t-need)
 
 
-
+## Relevant life events to theme gifts around 
+### &#129300;
+ - Big trip to London + Scotland (August 2020)
+ - New dog
+ - Settling into desk job/ web dev/ public servant work
+ 
 
 ## Clothing 
-#### &#128084; Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
+### &#128084; Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
 
 Criteria:
  - Good fit
@@ -48,7 +53,7 @@ Brands I like:
   
 
 ## Food and Drink 	
-#### &#9749; Coffee and alcohol are always fun! And no clutter!
+### &#9749; Coffee and alcohol are always fun! And no clutter!
 
 Coffee:
  - Whole beans (not ground)
@@ -69,8 +74,8 @@ Coffee:
  
   
 
-## Bags 	&#128092;
-I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like when it comes to the style and quality of the bag &#128523;
+## Bags 	
+### &#128092; I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like when it comes to the style and quality of the bag &#128523;
 
 Criteria:
   - Comfortable strap
@@ -83,15 +88,15 @@ Criteria:
   - [InCase](https://www.incase.com/products/bags)
 
 ## Tech &#128190;
-Tech gadgets and accessories I would love to get but don't _need_
+### Tech gadgets and accessories I would love to get but don't _need_
   - [Rasperry Pi 4](https://www.buyapi.ca/raspberry-pi-4-information/)
     * I already have a 3B, but you can never have enough raspberry pis and I know that I could find a really fun use for another!
   - External SSD
     * Can always use more storage! Especially as I improve and expand our media server + at home backups on the network
     * anything over 1TB (1000GB) and with usb3 or 3.1 is great!
   
-## Stuff for Eugene &#128054;
-Eugene can never have enough toys or supplies and if Eugene is happy, I'm happy 
+## Stuff for Eugene 
+### &#128054; Eugene can never have enough toys or supplies and if Eugene is happy, I'm happy 
 
 Toys:
   - Anything squeaky or ball-shaped is a win for him 
@@ -107,8 +112,8 @@ Treats:
 Misc:
   - Clothing (indoor or outdoor), petsmart/ dog store gift-cards 
 
-## Practical &#128176;
-Things I can always use but might not buy myself
+## Practical 
+### &#128176; Things I can always use but might not buy myself
  
  Beard care:
   - Beard oil (something that smells nice)
@@ -123,20 +128,15 @@ Things I can always use but might not buy myself
   - LCBO
   - Starbucks
 
-## Miscellaneous &#9989;
-Random things currently on my personal "To Buy" list (updated: *November 7th, 2019*):
+## Miscellaneous 
+### &#9989; Random things currently on my personal "To Buy" list (updated: *November 7th, 2019*):
 
    - Big winter boots for taking G out on walks (fashion is not a priority here)
    - New winter mitts (not too bulky)
    - New raincoat (same as alicia's) todo: <insert link to raincoat>
    - Key/ mail holder - like the one here (size and depth are good)
  
-## Relevant life events to theme gifts around 	&#129300;
- - Big trip to London + Scotland (August 2020)
- - New dog
- - Settling into desk job/ web dev/ public servant work
  
- 
- ## Things I don't need &#9940;
- Things that I definitely have plently of:
+ ## Things I don't need 
+ ### &#9940; Things that I definitely have plently of:
    * Can't think of anything yet  &#128523;
