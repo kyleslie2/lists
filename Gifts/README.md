@@ -5,9 +5,9 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 ## Categories
-> * [Clothing *128084;*](#clothing)
+> * [Clothing *&#128084;*](#clothing)
 > * [Food and Drink](#food-and-drink)
-> * [Bags *&#128092;*](#bags)_ 	
+> * [Bags *&#128092;*](#bags)
 > * [Tech *&#128190;*](#tech)
 > * [Stuff for Eugene *&#128054;*](#stuff-for-eugene)
 > * [Practical *&#128178;*](#practical)
@@ -106,7 +106,7 @@ Treats:
 Misc:
   - Clothing (indoor or outdoor), petsmart/ dog store gift-cards 
 
-## Practical
+## Practical &#128178;
 Things I can always use but might not buy myself
  
  Beard care:
