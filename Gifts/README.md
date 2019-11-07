@@ -120,7 +120,7 @@ Things I can always use but might not buy myself
   - Uber/ Uber-eats
   - Restaurants
   - LCBO
-  - Startbucks
+  - Starbucks
 
 ## Miscellaneous &#9989;
 Random things currently on my personal "To Buy" list (updated: *November 7th, 2019*):
