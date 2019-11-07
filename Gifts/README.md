@@ -1,5 +1,5 @@
-## Safe purchases for Kyle
-Things I love getting!
+## Gift ideas for Kyle
+Safe purchases and things I always love getting!
 
 
 > ## Categories
