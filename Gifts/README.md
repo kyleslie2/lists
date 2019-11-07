@@ -7,7 +7,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 ## Categories
 > * [Clothing](#clothing)
 > * [Food and Drink](#food-and-drink)
-> * [Bags](#bags)
+> * [Bags](#bags)_ 	&#128092;
 > * [Tech](#tech)
 > * [Stuff for Eugene](#stuff-for-eugene)_	&#128054;
 > * [Practical](#practical)
@@ -68,7 +68,7 @@ Coffee:
  
   
 
-## Bags
+## Bags 	&#128092;
 I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like when it comes to the style and quality of the bag :p
 
 Criteria:
