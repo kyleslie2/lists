@@ -32,15 +32,28 @@ Do need:
    - Ex: Frank and Oak medium slim fit flannel dress-shirt (dark green) todo: <insert link to picture?>
 
 ## Drinks
-Coffee and alcohol!
-  - Always fun!
+Coffee and alcohol are always fun! And no clutter!
+
+Coffee:
+ - Whole beans (not ground)
+ - Something I haven't tried before
+ 
+ Alcohol (Help us slowwwwwwly stock our liquor cabinet!):
+  - Any nice bottle of liquor we probably don't have (Hint: we don't have much haha)
+  - Fun beer I might not have tried (_Note: any type is fine *except sour beer*_)
+  
 
 ## Bags
-I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like in a bag... ;)
+I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like when it comes to the style and quality of the bag :p
+
 Criteria:
   - Comfortable strap
   - Sleek design
   - Functional size (not too big or too small (holds my laptop + lunch + some pens/notebook)
+ 
+ Examples of brands I like:
+  - https://bellroy.com/  
+  - https://www.incase.com/products/bags
 
 ## Tech
 Tech gadgets and accessories I would love to get but don't _need_
