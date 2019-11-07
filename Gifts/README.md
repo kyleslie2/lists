@@ -5,8 +5,8 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 ## Categories
-> * [*&#128084;* Clothing](#clothing-&#128084;)
-> * [*&#9749;* Food and Drink](#food-and-drink-&#9749;)
+> * [*&#128084;* Clothing](#clothing)
+> * [*&#9749;* Food and Drink](#food-and-drink)
 > * [*&#128092;* Bags](#bags)
 > * [*&#128190;* Tech](#tech)
 > * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
@@ -18,8 +18,8 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 
-## Clothing &#128084;
-Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
+## Clothing 
+#### &#128084; Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
 
 Criteria:
  - Good fit
@@ -47,8 +47,8 @@ Brands I like:
     - For sweaters, cardigans and pants
   
 
-## Food and Drink 	&#9749;
-Coffee and alcohol are always fun! And no clutter!
+## Food and Drink 	
+#### &#9749; Coffee and alcohol are always fun! And no clutter!
 
 Coffee:
  - Whole beans (not ground)
