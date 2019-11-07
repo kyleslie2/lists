@@ -8,6 +8,7 @@ Safe purchases and things I always love getting!
 > 3. [Bags](#bags)
 > 4. [Tech](#tech)
 > 5. [Practical](#practical)
+> 6. [Miscellaneous](#miscellaneous)
 
 
 
