@@ -58,3 +58,5 @@ Random things currently on my personal "To Buy" list (updated: *November 7th, 20
    - Big winter boots for taking G out on walks
    - New winter mitts (not too bulky)
    - New raincoat (same as alicia's) todo: <insert link to raincoat>
+   - Key/ mail holder - like the one here (size and depth are good)
+ 
