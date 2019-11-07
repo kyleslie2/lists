@@ -1,7 +1,7 @@
 ## Gift ideas for Kyle
 Safe purchases and things I always love getting!
 
-_Note: This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions &#128540;_ 
+_Note: This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions_ &#128540; 
 
 
 ## Categories
@@ -9,7 +9,8 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [Food and Drink](#food-and-drink)
 > * [Bags](#bags)
 > * :floppy_disk:[Tech](#tech)
-> * :dog:[Stuff for Eugene](#stuff-for-eugene)
+> [U+1F436; Stuff for Eugene](#stuff-for-eugene)
+> [U+1F436; Stuff for Eugene](#stuff-for-eugene)
 > * [Practical](#practical)
 > * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
 > * :warning:[Things I don't need](#things-i-don-t-need)
