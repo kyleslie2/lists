@@ -8,11 +8,11 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [Clothing](#clothing)
 > * [Food and Drink](#food-and-drink)
 > * [Bags](#bags)
-> * [Tech](#tech)
-> * [Stuff for Eugene](#stuff-for-eugene)
+> * :floppy_disk:[Tech](#tech)
+> * :dog:[Stuff for Eugene](#stuff-for-eugene)
 > * [Practical](#practical)
 > * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
-> * [Things I don't need](#things-i-don-t-need)
+> * :warning:[Things I don't need](#things-i-don-t-need)
 
 
 
