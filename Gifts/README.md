@@ -140,8 +140,8 @@ Misc:
    - New winter mitts (not too bulky)
    - New raincoat (same as alicia's) todo: <insert link to raincoat>
    - Key/ mail holder - like the one here (size and depth are good)
- 
- # &#9940;
- ## Things I don't need 
- ### Things that I definitely have plently of:
-   * Can't think of anything yet  &#128523;
+
+# &#9940;
+## Things I don't need 
+### Things that I definitely have plently of:
+  * Can't think of anything yet  &#128523;
