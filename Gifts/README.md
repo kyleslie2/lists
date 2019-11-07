@@ -17,8 +17,8 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 
 
-
-## Clothing 	&#128084;
+## &#128084;
+## Clothing 
 Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
 
 Criteria:
