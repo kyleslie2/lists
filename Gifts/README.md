@@ -15,6 +15,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 > * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
 > * [*&#9940;* Things I do not need](#things-i-do-not-need)
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 # &#129300;
 ## Notable life events 
