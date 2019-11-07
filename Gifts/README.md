@@ -1,23 +1,23 @@
 ## Gift ideas for Kyle
 Safe purchases and things I always love getting!
 
-_Note: This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions_ &#128540; 
+_Note: This large and comprehensive list is not meant to imply that I expect to receive these items. I just thought it would be a convenient reference for friends and family if they need suggestions_ &#128519; 
 
 
 ## Categories
-> * [Clothing](#clothing)
+> * [Clothing *128084;*](#clothing)
 > * [Food and Drink](#food-and-drink)
-> * [Bags](#bags)_ 	&#128092;
-> * [Tech](#tech)
-> * [Stuff for Eugene](#stuff-for-eugene)_	&#128054;
-> * [Practical](#practical)
+> * [Bags *&#128092;*](#bags)_ 	
+> * [Tech *&#128190;*](#tech)
+> * [Stuff for Eugene *&#128054;*](#stuff-for-eugene)
+> * [Practical *&#128178;*](#practical)
 > * [Miscellaneous/ On my 'To Buy' list](#miscellaneous)
 > * [Things I don't need](#things-i-don-t-need)
 
 
 
 
-## Clothing 	&#128086;
+## Clothing 	&#128084;
 Always looking for nice clothes. I don't buy them for myself often, so I'm always excited to receive them as gifts!
 
 Criteria:
@@ -69,7 +69,7 @@ Coffee:
   
 
 ## Bags 	&#128092;
-I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like when it comes to the style and quality of the bag :p
+I love really nice backpacks and messenger bags/ sachels but don't have the money for them. Although I am picky about what I like when it comes to the style and quality of the bag &#128523;
 
 Criteria:
   - Comfortable strap
@@ -81,7 +81,7 @@ Criteria:
   - [Bellroy](https://bellroy.com/)  
   - [InCase](https://www.incase.com/products/bags)
 
-## Tech
+## Tech &#128190;
 Tech gadgets and accessories I would love to get but don't _need_
   - [Rasperry Pi 4](https://www.buyapi.ca/raspberry-pi-4-information/)
     * I already have a 3B, but you can never have enough raspberry pis and I know that I could find a really fun use for another!
@@ -133,4 +133,4 @@ Random things currently on my personal "To Buy" list (updated: *November 7th, 20
  
  ## Things I don't need
  Things that I definitely have plently of:
-   * Can't think of anything yet :p
+   * Can't think of anything yet  &#128523;
