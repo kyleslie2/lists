@@ -145,7 +145,7 @@ Misc:
    - [Tile pro with replaceable battery (maybe one for Eugene too)](https://www.thetileapp.com/en-us/store/tiles/pro)
    - New winter mitts (not too bulky)
    - New raincoat (same as alicia's) todo: <insert link to raincoat>
-   - Key/ mail holder - [like the one here (size and depth are good)](https://www.amazon.ca/Mounted-Organizer-Decorative-Storage-Entryway/dp/B07WZSQMNF/ref=sr_1_36?keywords=mail+key+holder&qid=1573743479&sr=8-36) 
+   - Key/ mail holder - [like the one here (size and depth are good)](https://www.amazon.ca/Mounted-Organizer-Decorative-Storage-Entryway/dp/B07WZSQMNF/ref=sr_1_36?keywords=mail+key+holder&qid=1573743479&sr=8-36) or [this one](https://www.amazon.ca/Letters-Holder-Organiser-Shabby-Design/dp/B01MG52W10/ref=sr_1_28?keywords=key+holder+mail&qid=1573744595&sr=8-28)
 
 # &#9940;
 ## Things I do not need 
