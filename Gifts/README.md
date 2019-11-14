@@ -41,6 +41,7 @@ Criteria:
   - Dress shirts: Calvin Klein Extreme slim 15, 34, 35 fit well a couple years ago (might be small in neck and shoulders now)
   - Jeans: todo: <insert size of current jeans...>
   - Underwear: Boxer-briefs (medium)
+  - Sweaters: medium
  
 Do need: 
   - Nice, comfortable button-ups and dressy sweaters for work 
@@ -48,6 +49,7 @@ Do need:
   - Nice socks for work
   - Nice boxer-briefs (medium)
   - Nice pants: khakis or jeans (_Note: harder to buy for me_)
+  - Nice sweaters/ cardigans
   
 Brands I like:
   - Frank and Oak
@@ -137,12 +139,13 @@ Misc:
 
 # &#9989;
 ## Miscellaneous 
-### Random things currently on my personal "To Buy" list (updated: *November 7th, 2019*):
+### Random things currently on my personal "To Buy" list (updated: *November 14th, 2019*):
 
    - Big winter boots for taking G out on walks (fashion is not a priority here)
+   - [Tile pro with replaceable battery (maybe one for Eugene too)](https://www.thetileapp.com/en-us/store/tiles/pro)
    - New winter mitts (not too bulky)
    - New raincoat (same as alicia's) todo: <insert link to raincoat>
-   - Key/ mail holder - like the one here (size and depth are good)
+   - Key/ mail holder - [like the one here (size and depth are good)](https://www.amazon.ca/Mounted-Organizer-Decorative-Storage-Entryway/dp/B07WZSQMNF/ref=sr_1_36?keywords=mail+key+holder&qid=1573743479&sr=8-36) 
 
 # &#9940;
 ## Things I do not need 
