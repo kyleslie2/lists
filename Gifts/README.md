@@ -26,7 +26,7 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
  - New dog
  - Settling into desk job/ web dev/ public servant work
  
- # &#9989;
+# &#9989;
 ## Miscellaneous 
 ### Random things currently on my personal "To Buy" list (updated: *December 4th, 2019*):
 
