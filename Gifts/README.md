@@ -6,13 +6,13 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
 
 ## &#x1F381; Categories
 > * [*&#129300;* Notable life events](#notable-life-events)
+> * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
 > * [*&#128084;* Clothing](#clothing)
 > * [*&#9749;* Food and Drink](#food-and-drink)
 > * [*&#128092;* Bags](#bags)
 > * [*&#128190;* Tech](#tech)
 > * [*&#128054;* Stuff for Eugene](#stuff-for-eugene)
 > * [*&#128176;* Practical](#practical)
-> * [*&#9989;* Miscellaneous/ On my 'To Buy' list](#miscellaneous)
 > * [*&#9940;* Things I do not need](#things-i-do-not-need)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -25,6 +25,18 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
  - Big trip to London + Scotland (August 2020)
  - New dog
  - Settling into desk job/ web dev/ public servant work
+ 
+ # &#9989;
+## Miscellaneous 
+### Random things currently on my personal "To Buy" list (updated: *December 4th, 2019*):
+
+   - Big winter boots for taking G out on walks (fashion is not a priority here)
+   - [Tile pro with replaceable battery (maybe one for Eugene too)](https://www.thetileapp.com/en-us/store/tiles/pro)
+   - New winter gloves (not too bulky). Need to be able to take out bus pass/ doggy bags and use phone.
+   - New raincoat (same as alicia's) todo: <insert link to raincoat>
+   - Key/ mail holder - [like the one here (size and depth are good)](https://www.amazon.ca/Mounted-Organizer-Decorative-Storage-Entryway/dp/B07WZSQMNF/ref=sr_1_36?keywords=mail+key+holder&qid=1573743479&sr=8-36) or [this one](https://www.amazon.ca/Letters-Holder-Organiser-Shabby-Design/dp/B01MG52W10/ref=sr_1_28?keywords=key+holder+mail&qid=1573744595&sr=8-28)
+ - A steamer so I don't have to iron! (I don't know anything about steamers, so I guess just one that's relatively compact??)
+
  
 # &#128084;
 ## Clothing 
@@ -136,16 +148,6 @@ Misc:
   - Restaurants
   - LCBO
   - Starbucks
-
-# &#9989;
-## Miscellaneous 
-### Random things currently on my personal "To Buy" list (updated: *November 14th, 2019*):
-
-   - Big winter boots for taking G out on walks (fashion is not a priority here)
-   - [Tile pro with replaceable battery (maybe one for Eugene too)](https://www.thetileapp.com/en-us/store/tiles/pro)
-   - New winter mitts (not too bulky)
-   - New raincoat (same as alicia's) todo: <insert link to raincoat>
-   - Key/ mail holder - [like the one here (size and depth are good)](https://www.amazon.ca/Mounted-Organizer-Decorative-Storage-Entryway/dp/B07WZSQMNF/ref=sr_1_36?keywords=mail+key+holder&qid=1573743479&sr=8-36) or [this one](https://www.amazon.ca/Letters-Holder-Organiser-Shabby-Design/dp/B01MG52W10/ref=sr_1_28?keywords=key+holder+mail&qid=1573744595&sr=8-28)
 
 # &#9940;
 ## Things I do not need 
