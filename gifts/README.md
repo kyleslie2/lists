@@ -28,14 +28,12 @@ _Note: This large and comprehensive list is not meant to imply that I expect to 
  
 # &#9989;
 ## Miscellaneous 
-### Random things currently on my personal "To Buy" list (updated: *December 4th, 2019*):
+### Random things currently on my personal "To Buy" list (updated: *February 25, 2020*):
 
-   - Big winter boots for taking G out on walks (fashion is not a priority here)
-   - [Tile pro with replaceable battery (maybe one for Eugene too)](https://www.thetileapp.com/en-us/store/tiles/pro)
-   - New winter gloves (not too bulky). Need to be able to take out bus pass/ doggy bags and use phone.
-   - New raincoat (same as alicia's) todo: <insert link to raincoat>
-   - Key/ mail holder - [like the one here (size and depth are good)](https://www.amazon.ca/Mounted-Organizer-Decorative-Storage-Entryway/dp/B07WZSQMNF/ref=sr_1_36?keywords=mail+key+holder&qid=1573743479&sr=8-36) or [this one](https://www.amazon.ca/Letters-Holder-Organiser-Shabby-Design/dp/B01MG52W10/ref=sr_1_28?keywords=key+holder+mail&qid=1573744595&sr=8-28)
+ - New winter gloves (not too bulky). Need to be able to take out bus pass/ doggy bags and use phone.
+ - New raincoat (same as alicia's) todo: <insert link to raincoat>
  - A steamer so I don't have to iron! (I don't know anything about steamers, so I guess just one that's relatively compact??)
+ - A nice coffee table! (nice and wide, but not too deep. some storage underneath- will add examples here later)
 
  
 # &#128084;
@@ -113,6 +111,7 @@ Criteria:
   - External SSD
     * Can always use more storage! Especially as I improve and expand our media server + at home backups on the network
     * anything over 1TB (1000GB) and with usb3 or 3.1 is great!
+  - [A Synology NAS](https://www.synology.com/en-global/products/series/home)
   
 # &#128054;
 ## Stuff for Eugene 
@@ -138,7 +137,7 @@ Misc:
  
  Beard care:
   - Beard oil (something that smells nice)
-  - Beard conditioner
+  - -Beard conditioner- (don't need right now)
  
  Gift cards:
   - Amazon
